@@ -15,6 +15,13 @@ Storage:
     3. Configure Blob lifecycle management rules
     4. Configure Blob object replication
     5. Upload and price Blob storage
+    
+  III. Configure Storage Security
+    1. Configure shared access signatures including URI and SAS parameters.
+    2. Configure storage service encryption.
+    3. Implement customer-managed keys.
+    4. Recommend opportunities to improve storage security.
+
 
   
   Implementing blob storage
