@@ -30,3 +30,13 @@ Storage:
 
 Virtual Machines:
   1. Deploying VMs using Azure Portal and Azure CLI
+
+
+Student Labs:
+1. Manage Azure Active Directory Identities
+  
+    Task 1: Create and configure Azure AD users
+    Task 2: Create Azure AD groups with assigned and dynamic membership
+    Task 3: Create an Azure Active Directory (AD) tenant
+    Task 4: Manage Azure AD guest users
+
