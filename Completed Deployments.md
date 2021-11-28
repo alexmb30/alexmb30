@@ -22,6 +22,12 @@ Storage:
     3. Implement customer-managed keys.
     4. Recommend opportunities to improve storage security.
 
+  IV. Configure Azure Files and Azure Sync
+    1. Identify when to use Azure files versus Azure Blobs.
+    2. Configure Azure file shares and file share snapshots.
+    3. Identify features and usage cases of Azure File Sync.
+    4. Identify File Sync components and configuration steps.
+
 
   
   Implementing blob storage
