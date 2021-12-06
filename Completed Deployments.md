@@ -46,3 +46,8 @@ Student Labs:
     Task 3: Create an Azure Active Directory (AD) tenant
     Task 4: Manage Azure AD guest users
 
+
+    Task 1: Implement Management Groups
+    Task 2: Create custom RBAC roles
+    Task 3: Assign RBAC roles
+
